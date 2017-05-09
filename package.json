@@ -1,0 +1,46 @@
+{
+  "name": "loopback-bunyan-logger",
+  "version": "1.1.1",
+  "description": "Logging component for loopback UPDATED",
+  "main": "index.js",
+  "license": "GNU",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saikatharryc/loopback-bunyan-logger"
+  },
+  "dependencies": {
+    "bunyan": "^1.8.10",
+    "debug": "^2.6.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-istanbul": "^1.1.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-mocha": "^4.3.0",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "loopback": "^3.6.0",
+    "loopback-datasource-juggler": "^3.5.0",
+    "loopback-connector-rest": "^2.1.0",
+    "loopback-connector-mongodb": "^3.1.0",
+    "loopback-boot": "^2.24.0",
+    "run-sequence": "^1.2.2",
+    "supertest": "^3.0.0",
+    "compression": "^1.6.2",
+    "cors": "^2.8.3",
+    "loopback-component-explorer": "^4.2.0",
+    "serve-favicon": "^2.4.2"
+  },
+  "files": [
+    "index.js",
+    "lib",
+    "README.md"
+  ],
+  "contributors": [
+    {
+      "name": "Saikat Chakrabortty",
+      "url": "https://github.com/saikatharryc"
+    }
+  ]
+}
