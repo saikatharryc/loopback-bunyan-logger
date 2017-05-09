@@ -1,7 +1,7 @@
 # loopback-bunyan-logger
 updated   {loopback-component-logger}
  
- **incase if you dont want the child node logs. please use the version ^1.1.2
+ **incase if you dont want the child node logs. please use the version ^1.1.2 of `loopback-bunyan-looger`.
  
 Logging component for [loopback] using [bunyan] logger with additional loopback specific hooks and log management API
 
