@@ -8,7 +8,7 @@ Logging component for [loopback] using [bunyan] logger with additional loopback 
 [![NPM](https://nodei.co/npm/loopback-bunyan-logger.png?downloads=true)](https://nodei.co/npm/loopback-bunyan-logger/) [![NPM](https://nodei.co/npm-dl/loopback-bunyan-logger.png?months=1&height=2)](https://nodei.co/npm/loopback-bunyan-logger/)
 
 
-[![Build Status](https://travis-ci.org/saikatharryc/loopback-bunyan-logger.svg?branch=master)](https://travis-ci.org/saikatharryc/loopback-bunyan-logger)
+[![Build Status](https://travis-ci.org/saikatharryc/loopback-bunyan-logger.svg?branch=master)](https://travis-ci.org/saikatharryc/loopback-bunyan-logger) [![Greenkeeper badge](https://badges.greenkeeper.io/saikatharryc/loopback-bunyan-logger.svg)](https://greenkeeper.io/)
 
 
 # Features
