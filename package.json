@@ -20,7 +20,7 @@
     "gulp-mocha": "^6.0.0",
     "jshint": "^2.9.4",
     "jshint-stylish": "^2.2.1",
-    "loopback": "^3.6.0",
+    "loopback": "^3.26.0",
     "loopback-datasource-juggler": "^4.6.2",
     "loopback-connector-rest": "^3.4.1",
     "loopback-connector-mongodb": "^4.1.0",
