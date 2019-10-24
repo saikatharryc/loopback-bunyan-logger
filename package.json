@@ -23,7 +23,7 @@
     "loopback": "^3.6.0",
     "loopback-datasource-juggler": "^4.6.2",
     "loopback-connector-rest": "^3.4.1",
-    "loopback-connector-mongodb": "^4.1.0",
+    "loopback-connector-mongodb": "^5.1.0",
     "loopback-boot": "^2.24.0",
     "run-sequence": "^2.2.1",
     "supertest": "^4.0.2",
